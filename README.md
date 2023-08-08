@@ -27,6 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <img width="1128" alt="image" src="https://github.com/tahdriwilkins/ticket-lifecycle/assets/141438778/c90ce3b3-9c9e-4a4f-bfc6-73459281fc24">
+
 </p>
 <p>
 An example of a user submitting a ticket to Help Desk </p>
@@ -34,6 +35,8 @@ An example of a user submitting a ticket to Help Desk </p>
 
 <p>
 <img width="1128" alt="image" src="https://github.com/tahdriwilkins/ticket-lifecycle/assets/141438778/8ed0e12e-5438-4b79-bdef-eb020878bfbe">
+<img width="1128" alt="image" src="https://github.com/tahdriwilkins/ticket-lifecycle/assets/141438778/62f3675a-b031-4d83-83bb-0551abea884a">
+
 </p>
 <p>
 Signed in as Jane the System Administrator to work the ticket that the Users Ken and Karen submitted </p>
