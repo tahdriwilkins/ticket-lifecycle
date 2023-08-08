@@ -48,3 +48,10 @@ Signed in as Jane the System Administrator to work the ticket that the Users Ken
 <p>
 Worked the tickets and closed them as both Jane and John</p>
 <br />
+
+<p>
+  <img width="1128" alt="image" src="https://github.com/tahdriwilkins/ticket-lifecycle/assets/141438778/43a9413e-38f9-43ca-b57c-cee3c456f637">
+</p>
+<p>
+  Another example of closing a ticket with Jane Doe
+</p>
